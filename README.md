@@ -2,7 +2,15 @@
 
 This project is a simple note-taking application with a React frontend and a Node.js backend.
 Example--> https://cloud-note-app-1.onrender.com/hi (best experience in desktop)
+## Overview
 
+**Cloud Note App** provides an effortless way to create and manage notes in the cloud. Key features include:
+
+- **Random Domain Creation**: Instantly generate a unique domain to start taking notes.
+- **Custom Domain Support**: Create and access your notes via a personalized domain.
+- **Auto-Save Notes**: Notes are automatically saved every 2 seconds to prevent data loss.
+- **Domain Deletion**: Easily delete a domain when it's no longer needed.
+- 
 ## Getting Started
 
 To get the application running locally, follow these steps:
