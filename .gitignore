@@ -3,29 +3,20 @@
 
 # Logs
 *.log
-npm-debug.log*
 
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# DB files
-*.db
-
-# React build output
+# Build output
 frontend/build/
 
-# OS-specific
+# Database files
+*.db
+
+# System files
 .DS_Store
 Thumbs.db
 
-# Environment files
-.env
-
-# IDE/editor folders
+# IDE/editor
 .vscode/
 .idea/
-*.sublime-workspace
-*.sublime-project
+
+# Environment
+.env
