@@ -1,7 +1,7 @@
 # Cloud Note App
 
 This project is a simple note-taking application with a React frontend and a Node.js backend.
-Example--> https://cloud-note-app-1.onrender.com/hi (best experience in desktop)
+- Example--> https://cloud-note-app-1.onrender.com/hi (best experience in desktop)
 ## Overview
 
 **Cloud Note App** provides an effortless way to create and manage notes in the cloud. Key features include:
