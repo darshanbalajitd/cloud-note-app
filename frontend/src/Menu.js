@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 
-const BACKEND = "https://cloud-note-app.onrender.com"; // Replace with your IP
+const BACKEND = "http://localhost:5000/"; // Replace with your IP
 
 function Menu() {
   const [pages, setPages] = useState([]);
