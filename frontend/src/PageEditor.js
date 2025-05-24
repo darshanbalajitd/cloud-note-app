@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import axios from 'axios';
 import Menu from './Menu';
 
-const BACKEND = "https://cloud-note-app.onrender.com"; // Replace with your IP
+const BACKEND = "http://localhost:5000/"; // Replace with your IP
 
 function PageEditor() {
   const { pageName } = useParams();
